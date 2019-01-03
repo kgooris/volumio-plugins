@@ -556,7 +556,7 @@
 					"prettyName": "LCD Menu",
 					"icon": "fa-lightbulb-o",
 					"name": "lcdmenu",
-					"version": "0.0.1",
+					"version": "0.0.2",
 					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/user_interface/lcdmenu/lcdmenu.zip",
 					"license": "ISC",
 					"description": "This plugin will give you a easy menu interface that can be controlled by GPIO buttons",
