@@ -551,6 +551,24 @@
 						}
 					],
 					"updated": "25-6-2018"
+				},
+				{
+					"prettyName": "LCD Menu",
+					"icon": "fa-lightbulb-o",
+					"name": "lcdmenu",
+					"version": "0.0.1",
+					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/user_interface/lcdmenu/lcdmenu.zip",
+					"license": "ISC",
+					"description": "This plugin will give you a easy menu interface that can be controlled by GPIO buttons",
+					"details": "initial release",
+					"author": "Kristof G",
+					"screenshots": [
+						{
+							"image": "",
+							"thumb": ""
+						}
+					],
+					"updated": "3-1-2019"
 				}
 			]
 		}
